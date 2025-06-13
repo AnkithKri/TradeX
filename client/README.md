@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+# 📈 TradeX – Financial Data Analysis & Visualization Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+TradeX is a student-driven initiative aimed at building a web platform that simplifies and enhances financial data access and analysis for users. The project is currently under active development, with focus areas spanning data scraping, API integration, and UI/UX design.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🧠 Project Overview
 
-### `npm start`
+The TradeX platform allows users to:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- View financial stock and asset data using the YFinance API
+- Track financial news with potential plans for scraping relevant sources
+- Interact with a responsive and user-friendly frontend interface
+- Extend functionality over time with analytics, portfolio simulations, and more
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🚧 Development Status
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The project is in its design and planning phase. The team is currently focused on:
 
-### `npm run build`
+- Finalizing the **UI/UX design** using [Miro](https://miro.com/)
+- Exploring **data sourcing options** such as YFinance and financial news websites
+- Structuring the **GitHub repository** for collaborative development
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🔗 Tools & Libraries
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+| Functionality       | Tool/Library               |
+|---------------------|----------------------------|
+| Financial Data API  | [YFinance](https://pypi.org/project/yfinance/) |
+| Frontend Design     | Miro (wireframes, layout)  |
+| Collaboration       | GitHub                     |
+| Web Development     | HTML/CSS/JavaScript *(TBD)*|
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📋 Current Tasks
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [ ] Explore and implement YFinance for stock data
+- [ ] Scrape or integrate financial news content (optional)
+- [ ] Finalize UI design on Miro
+- [ ] Add Herdy as a GitHub collaborator
+- [ ] Upload initial website template code to the GitHub repo
+- [ ] Schedule next sync session after upcoming tests
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 👥 Collaboration
 
-## Learn More
+**Main Contributors:**  
+- Ankith – Project Lead  
+- Herdy – Technical Mentor
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Platforms:**  
+- GitHub (for code collaboration)  
+- Miro (for design workflows)  
+- Crimson Chat (for updates and planning)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## 🗓️ Timeline
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- **March**: Initial planning
+- **April-May**: Limited progress due to exams
+- **June**: Design phase initiated on Miro
+- **July**: Next session to review UI and begin coding
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 📬 Contact
 
-### Making a Progressive Web App
+For updates and guidance, please reach out via Crimson or GitHub Issues.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## 📄 License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+This project is for educational purposes and currently does not use a specific open-source license.
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
