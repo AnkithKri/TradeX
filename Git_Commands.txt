@@ -4,3 +4,8 @@
  git branch -M main
  git remote add origin https://github.com/AnkithKri/TradeX.git
  git push -u origin main
+ cd *Directory
+ pwd (present working Directory)
+ ls
+ mv (move - parameters are source and destination)
+ rmdir (directory)--->(remove directory)
